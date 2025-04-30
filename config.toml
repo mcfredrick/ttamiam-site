@@ -1,8 +1,7 @@
 # The URL the site will be built for
-title = "Yawuteva's Wicked Groovy Website"
-base_url = "https://yawuteva.com"
-# base_url = "yawuteva.com"
-description = "Yawuteva's official website"
+title = "ttamiam's Wicked Groovy Website"
+base_url = "https://ttamiam.com"
+description = "ttamiam's official website"
 
 compile_sass = true
 
@@ -16,15 +15,16 @@ header_links = [
     {name = "Blorg", url = "/blog"},
 ]
 
+# TODO: Update links! Link to a playlist.
 social_links = [
     {name = "Tidal", url = "https://tidal.com/browse/artist/46543196?u", svg_icon = "tidal_macro"},
     {name = "Spotify", url = "https://open.spotify.com/artist/1doOvNrKAtpi5lfZJXrpni?si=sM1p1cf6QduJtrTBmEPA0g", icon = "fab fa-spotify"},
     {name = "YouTube", url = "https://www.youtube.com/channel/UCQs9-ZewO-1sPx3iu41xuwA", icon = "fab fa-youtube"},
     {name = "SoundCloud", url = "https://on.soundcloud.com/8MVcG2k1tUk2Fa6t5", icon = "fab fa-soundcloud"},
-    {name = "Bandcamp", url = "https://yawuteva.bandcamp.com/", icon = "fab fa-bandcamp"},
+    {name = "Bandcamp", url = "https://ttamiam.bandcamp.com/", icon = "fab fa-bandcamp"},
 ]
 
 # license = "CC BY-NC 2.0"
-# email = "info@yawuteva.com"
+# email = "info@ttamiam.com"
 # name = "Jane Doe"
 # favicon = "/images/favicon.ico"
