@@ -15,7 +15,7 @@ header_links = [
     {name = "Blorg", url = "/blog"},
 ]
 
-# TODO: Update links! Link to a playlist.
+# TODO: Update links! Link to a playlist. Also on other_index.html - spotify link
 social_links = [
     {name = "Tidal", url = "https://tidal.com/browse/artist/46543196?u", svg_icon = "tidal_macro"},
     {name = "Spotify", url = "https://open.spotify.com/artist/1doOvNrKAtpi5lfZJXrpni?si=sM1p1cf6QduJtrTBmEPA0g", icon = "fab fa-spotify"},
