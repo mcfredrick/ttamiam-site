@@ -15,13 +15,13 @@ header_links = [
     # {name = "Blorg", url = "/blog"},
 ]
 
-# TODO: Update links! Link to a playlist. Also on other_index.html - spotify link
+# TODO: Update links! Link to a playlist.
 social_links = [
     # {name = "Tidal", url = "https://tidal.com/browse/artist/46543196?u", svg_icon = "tidal_macro"},
     {name = "Spotify", url = "https://open.spotify.com/artist/2XeOD7YEO3xoGwPD8SjW1x?si=sM1p1cf6QduJtrTBmEPA0g", icon = "fab fa-spotify"},
     {name = "YouTube", url = "https://www.youtube.com/@ttamiam-music", icon = "fab fa-youtube"},
     # {name = "SoundCloud", url = "https://on.soundcloud.com/8MVcG2k1tUk2Fa6t5", icon = "fab fa-soundcloud"},
-    # {name = "Bandcamp", url = "https://ttamiam.bandcamp.com/", icon = "fab fa-bandcamp"},
+    {name = "Bandcamp", url = "https://ttamiam.bandcamp.com/", icon = "fab fa-bandcamp"},
     {name = "TikTok", url = "https://www.tiktok.com/@ttamiam", icon = "fab fa-tiktok"},
 ]
 
